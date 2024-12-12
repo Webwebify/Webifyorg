@@ -1,0 +1,107 @@
+body{
+  background-image:
+  url(https://i.ibb.co/tKTh3bw/pngtree-website-technology-line-dark-background-image-2344719.jpg);
+}
+#welcome{
+  text-align: center;
+  color: white;
+  font-weight: bolder;
+  font-size: 25px; 
+}
+#paragraph1{
+  text-align: center;
+  color: white;
+  font-size: 13px;
+  font-weight: bolder;
+}
+#webicon{
+  height: 75px;
+  width: 75px;
+}
+#offering{
+  color: white;
+}
+#bestthing{
+  color: white;
+  font-size: 15px;
+  font-weight: bolder;
+}
+#prize{
+  font-weight: bolder;
+  color: white;
+  text-align: center;
+}
+table{
+  border-color: white;
+  margin-left: auto;
+  margin-right: auto;
+}
+.heading{
+  color: white;
+}
+.td{
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+#col{
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+#WebBuisness{
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  
+}
+#form{
+  text-align: center;
+  color: white;
+  background-color: blue;
+  font-weight: bold;
+  align-self: center;
+}
+#us{
+  box-shadow: 0 0 5px cyan,
+  0 0 25px cyan;
+  background-color: cyan;
+  color: white;
+  border: 0px;
+  align-items: center;
+  font-weight: bold;
+  text-align: center!
+  width: 160px;
+  height: 32px;
+  display: block;
+  margin: auto;
+}
+#us:hover {
+  box-shadow: 0 0 5px cyan,
+  0 0 25px cyan, 0 0 50px cyan,
+  0 0 100px cyan, 0 0 200px cyan;
+}
+#or{
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
+#quick{
+  box-shadow: 0 0 5px orangered,
+  0 0 25px orangered;
+  background-color: orangered;
+  color: white;
+  border: 0px;
+  align-items: center;
+  font-weight: bold;
+  text-align: center!
+  width: 160px;
+  height: 32px;
+  display: block;
+  margin: auto;
+}
+#quick:hover {
+  box-shadow: 0 0 5px orangered,
+  0 0 25px orangered, 0 0 50px orangered,
+  0 0 100px orangered, 0 0 200px orangered;
+}
